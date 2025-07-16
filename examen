@@ -84,3 +84,4 @@ while True:
     else:
         print("Opción inválida.")
 mod=("modificacio1")
+mod2=("modificacion2")
